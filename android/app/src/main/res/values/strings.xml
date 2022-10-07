@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">weather track project></string>
+    <string name="facebook_app_id">623738549343230</string>
+    <string name="fb_login_protocol_scheme">fb623738549343230</string>
+    <string name="facebook_client_token">45584c9dece21a0830c851aa7ffb65bd</string>
+</resources>
